@@ -1,0 +1,8 @@
+com/globomantics/tdd/services/ProductServiceImpl.class
+com/globomantics/tdd/services/ProductService.class
+com/globomantics/tdd/model/Product$ProductBuilder.class
+com/globomantics/tdd/repository/ProductRepositoryImpl.class
+com/globomantics/tdd/controllers/ProductController.class
+com/globomantics/tdd/model/Product.class
+com/globomantics/tdd/repository/ProductRepository.class
+com/globomantics/tdd/TddPracticeApplication.class

@@ -1,0 +1,6 @@
+/home/martin/NetBeansProjects/TDDPractice/src/test/java/com/globomantics/tdd/TddPracticeApplicationTests.java
+/home/martin/NetBeansProjects/TDDPractice/src/test/java/com/globomantics/tdd/repository/ProductRepositoryTests.java
+/home/martin/NetBeansProjects/TDDPractice/src/test/java/com/globomantics/tdd/repository/ProductRepositoryTestConfiguration.java
+/home/martin/NetBeansProjects/TDDPractice/src/test/java/com/globomantics/tdd/services/ProductServiceTest.java
+/home/martin/NetBeansProjects/TDDPractice/src/test/java/com/globomantics/tdd/integrations/ProductIntegrationTest.java
+/home/martin/NetBeansProjects/TDDPractice/src/test/java/com/globomantics/tdd/controllers/ProductControllerTest.java
